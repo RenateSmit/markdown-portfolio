@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Mijn favoriete bezigheden
+- Zwemmen
+- Wandelen
+- Films kijken
+- Tutorials doen
